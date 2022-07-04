@@ -1,5 +1,4 @@
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi there!    
-<p float="left">
 
 <p align="left">
   <a href="#" alt="Gmail">
@@ -18,6 +17,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
+<p float="left">
   <img src="https://i.imgur.com/3EdAQ4p.png" width="270" height="270" align="middle"/>
   <img src="https://i.imgur.com/6vxpewY.png" width="270" height="270" align="middle" /> 
 </p>
