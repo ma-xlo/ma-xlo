@@ -5,6 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-seacello.correa@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seacello.correa@gmail.com)](mailto:seacello.correa@gmail.com)
 
 <p float="left">
-  <img src="https://i.imgur.com/3EdAQ4p.png" width="270" height="270" align="middle"/>
+  <a href="https://gist.github.com/ma-xlo/a3eead609396b61b0438dd8ae742abcb" alt="Fibonacci" <img src="https://i.imgur.com/3EdAQ4p.png" width="270" height="270" align="middle"/> </a>
   <img src="https://i.imgur.com/6vxpewY.png" width="270" height="270" align="middle" /> 
 </p>
