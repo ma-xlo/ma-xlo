@@ -1,6 +1,6 @@
-[![Twitter Badge](https://img.shields.io/badge/-@seacello_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&labelColor=#66ff00&link=https://twitter.com/seacello_)](https://twitter.com/seacello_)
-[![Linkedin Badge](https://img.shields.io/badge/-Marcelo%20Correa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&labelColor=#66ff00&link=https://www.linkedin.com/in/seacello/)](https://www.linkedin.com/in/seacello/)
-[![Gmail Badge](https://img.shields.io/badge/-seacello.correa@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&labelColor=#66ff00&link=mailto:seacello.correa@gmail.com)](mailto:seacello.correa@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@seacello_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&labelColor=66ff00&link=https://twitter.com/seacello_)](https://twitter.com/seacello_)
+[![Linkedin Badge](https://img.shields.io/badge/-Marcelo%20Correa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&labelColor=66ff00&link=https://www.linkedin.com/in/seacello/)](https://www.linkedin.com/in/seacello/)
+[![Gmail Badge](https://img.shields.io/badge/-seacello.correa@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&labelColor=66ff00&link=mailto:seacello.correa@gmail.com)](mailto:seacello.correa@gmail.com)
 
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi there!    
 
